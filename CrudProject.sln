@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.10
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{2C84C2DE-0CE4-4C7F-A460-2BBDB1329A33}"
+	ProjectSection(SolutionItems) = preProject
+		crud_example\Model\AppModel.php = crud_example\Model\AppModel.php
+		crud_example\Model\User.php = crud_example\Model\User.php
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
