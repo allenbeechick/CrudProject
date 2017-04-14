@@ -1,6 +1,6 @@
 #!/usr/bin/php -q
 <?php
-//comments
+
 /**
  * Command-line code generation utility to automate programmer chores.
  *
